@@ -7,7 +7,7 @@
 
 **Installation**
 - To clone it on your local machine
->git clone https://github.com/Sushmi-pal/laravelnew.git
+>git clone https://github.com/YuriiBahanin1218/Invoice_Management_System
 
 - Switch to the repo folder
 >cd laravelnew
